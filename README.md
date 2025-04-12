@@ -34,35 +34,6 @@ Implemented using both **Weka** and **Python**:
 
 ---
 
-## 📂 Project Structure
-
-```bash
-📁 BI-DM-Project
-├── BI/
-│   ├── Tableau_Dashboard.twbx
-│   ├── PowerBI_Dashboard.pbix
-│   └── SQL_Scripts/
-│       ├── create_warehouse.sql
-│       └── etl_fact_dim.sql
-├── DM/
-│   ├── Weka/
-│   │   └── *.arff
-│   ├── Python/
-│   │   ├── association_rules.py
-│   │   ├── classification.py
-│   │   ├── clustering.py
-│   │   ├── chi_square_test.py
-│   │   ├── similarity_analysis.py
-│   │   └── matplotlib_visualization.py
-│   └── Java/
-│       ├── SimulatedDataset.java
-│       └── AprioriAlgorithm.java
-├── Report/
-│   └── BI_DM_Report.pdf
-└── README.md
-```
-
----
 
 ## 📝 Report Instructions
 
